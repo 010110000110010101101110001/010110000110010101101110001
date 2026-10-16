@@ -3,7 +3,7 @@ local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/rel
 local Window = WindUI:CreateWindow({
     Title = "Xen0 Loader",
     Icon = "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Circle_sign_101.svg/500px-Circle_sign_101.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20110109221008",
-    Author = "by .ftgs and .ftgs",
+    Author = "by blixxARSENAL",
     Theme = "Light",
     KeySystem = {
         KeyValidator = function(key)
