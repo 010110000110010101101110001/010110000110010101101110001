@@ -40,8 +40,8 @@ loacl Button = Tab:Button({
 })
 
 local Button = Tab:Button({
-    Title = "Orion UI",
+    Title = "Xen0 UI",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Orion/main.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/xenowebo/Xen0/main.lua"))()
     end
 })
